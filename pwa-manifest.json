@@ -1,10 +1,10 @@
 {
-  "name": "おしごと チャレンジ！",
-  "short_name": "おしごと",
-  "description": "あやみ・ひなみのおしごとチャレンジアプリ",
+  "name": "かぞくカレンダー",
+  "short_name": "カレンダー",
+  "description": "家族みんなのスケジュール管理アプリ",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffe4f0",
+  "background_color": "#f8f9fb",
   "theme_color": "#FF6B9D",
   "orientation": "portrait",
   "icons": [
