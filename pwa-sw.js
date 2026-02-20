@@ -1,4 +1,4 @@
-const CACHE = "oshigoto-v1";
+const CACHE = "kazoku-calendar-v1";
 const FILES = ["./", "./index.html", "./manifest.json"];
 
 self.addEventListener("install", e => {
